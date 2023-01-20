@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp.Model
+﻿namespace Model
 {
     public class User
     {
